@@ -817,7 +817,6 @@ C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.Client.props
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
-C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\scopedcss\bundle\GameStore.Client.styles.css
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\scopedcss\projectbundle\GameStore.Client.bundle.scp.css
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\compressed\ontbxpfvuz.gz
@@ -1029,3 +1028,4 @@ C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\refint\GameStore.Client.dll
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\GameStore.Client.pdb
 C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\ref\GameStore.Client.dll
+C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\obj\Debug\net8.0\GameStore.Client.sourcelink.json

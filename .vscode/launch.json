@@ -5,7 +5,9 @@
             "name": "Launch and Debug Standalone Blazor WebAssembly App",
             "type": "blazorwasm",
             "request": "launch",
-            "cwd": "${workspaceFolder}"
+            "cwd": "${workspaceFolder}",
+            "url": "http://localhost:5290",
+            "browser": "edge"
         }
     ]
 }
