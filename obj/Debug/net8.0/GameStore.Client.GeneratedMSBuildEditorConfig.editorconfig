@@ -13,27 +13,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = GameStore.Client
 build_property.RootNamespace = GameStore.Client
-build_property.ProjectDir = C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\
+build_property.ProjectDir = c:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client
+build_property.MSBuildProjectDirectory = c:\Users\ayomi\Documents\programming\blazor-gamestore\GameStore.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/App.razor]
+[c:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/Pages/Home.razor]
+[c:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/_Imports.razor]
+[c:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/Layout/MainLayout.razor]
+[c:/Users/ayomi/Documents/programming/blazor-gamestore/GameStore.Client/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1wufhjsc23
