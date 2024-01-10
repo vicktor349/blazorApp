@@ -1,0 +1,1 @@
+dotnet new razorcomponent -n EditGame -o Pages
