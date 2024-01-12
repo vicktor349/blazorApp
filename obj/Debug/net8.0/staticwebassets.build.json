@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J1h4EhNG4XR5F89O/Gi4C6AhgLhVAEz/FxgD4HeFsZw=",
+  "Hash": "0vT3YpfVHHKAPiOzqM+g6jBBPhM0ypB0XSF2zBHNsdg=",
   "Source": "GameStore.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.0.cx60pm2snx.js",
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.ks95uemrc2.js",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.0.cx60pm2snx.js",
+      "RelativePath": "_framework/dotnet.native.8.0.1.ks95uemrc2.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.0.14kkjimq5k.js",
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.82ccav4587.js",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.0.14kkjimq5k.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.1.82ccav4587.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\GameStore.Client.pdb",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\ayomi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -3969,25 +3969,6 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm"
     },
     {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\14kkjimq5k.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.0.14kkjimq5k.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.0.14kkjimq5k.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.0.14kkjimq5k.js"
-    },
-    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\1tjv9qq18s.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -4501,6 +4482,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\5bpth17nij.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\5o3uamspvi.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -4843,6 +4843,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\82ccav4587.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.1.82ccav4587.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.82ccav4587.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.82ccav4587.js"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\84fl1mvoyo.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -4957,6 +4976,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\9o9e7p68p9.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\9oxnwd30qf.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -5031,25 +5069,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\a1kopbnbpa.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\a95oz33x5t.gz",
@@ -5242,25 +5261,6 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\cx60pm2snx.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.0.cx60pm2snx.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.0.cx60pm2snx.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.0.cx60pm2snx.js"
-    },
-    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\cxtbalwzdk.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -5278,25 +5278,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.ResourceManager.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\d9w2qreyfa.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\dkl55dijow.gz",
@@ -5335,25 +5316,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.HttpListener.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\ds6xula2r2.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\eojbgsxb0r.gz",
@@ -5601,6 +5563,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\g19gv1wgix.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\g4nwe5ga6x.gz",
@@ -6154,6 +6135,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\ks95uemrc2.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.1.ks95uemrc2.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.ks95uemrc2.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.ks95uemrc2.js"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\kvqaikvkf4.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -6287,6 +6287,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Concurrent.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\lqa66ra15m.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\m36tukjsp2.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -6361,25 +6380,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\mjpqzpv3p0.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\myvtw65v70.gz",
@@ -6513,25 +6513,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Process.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\nu759xh11b.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\o3l33g0mjf.gz",
@@ -7332,6 +7313,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\uecsyhnaww.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\ujtp0djp58.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -7446,6 +7446,25 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.wasm"
     },
     {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\vwuov0mkk3.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\vzpuch4ba3.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -7463,25 +7482,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\w0j52lx1dm.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\w3uxb5uq5e.gz",
@@ -7541,25 +7541,6 @@
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm"
     },
     {
-      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\ws78lhkh21.gz",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\wwlf4qae9z.gz",
       "SourceId": "GameStore.Client",
       "SourceType": "Computed",
@@ -7596,6 +7577,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Memory.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\x5mr0r3voo.gz",
+      "SourceId": "GameStore.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\ayomi\\Documents\\programming\\blazor-gamestore\\GameStore.Client\\obj\\Debug\\net8.0\\compressed\\xfp3yhkvbr.gz",

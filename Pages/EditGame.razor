@@ -1,5 +1,8 @@
 ﻿@page "/game"
 @using Models
+@inject NavigationManager NavigationManager
+
+
 
 <PageTitle>New Game</PageTitle>
 <h1>Game Catalog</h1>
@@ -7,7 +10,7 @@
 
 <div class="row">
     <div class="col-sm-4">
-        <EditForm Model="@game">
+        <EditForm Model="@game" OnSubmit="HandleSubmit">
             <div class="mb-3">
                 <label for="name" class="form-label">Name:</label>
                 <InputText id="name" @bind-Value="game.Name" class="form-control" require></InputText>
@@ -36,4 +39,9 @@
             ReleaseDate = DateTime.UtcNow
         };
 
+    private void HandleSubmit()
+    {
+        GameClient.AddGame(game);
+        NavigationManager.NavigateTo("/");
+    }
 };

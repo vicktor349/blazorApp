@@ -32,8 +32,8 @@ ReleaseDate = new DateTime(1991, 2, 2)
     {
         return games.ToArray();
     }
-    public static void AddGame(Game game)
-    {
+    public static void AddGame(Game game){
+        game.Id = games.Max(game  => game.Id) + 1;
         games.Add(game);
     }
 }
