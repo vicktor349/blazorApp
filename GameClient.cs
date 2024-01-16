@@ -36,4 +36,17 @@ ReleaseDate = new DateTime(1991, 2, 2)
         game.Id = games.Max(game  => game.Id) + 1;
         games.Add(game);
     }
+
+    public static Game GetGames(){
+        return games.Find(game => game.Id == id) ??  throw new Exception("Could not find game!"); 
+    }
+
+    public static void UpdateGame(Game updatedGame){
+        Game existingGame = GetGame(updatedGame.Id);
+        existingGame.Name = updatedGame.Name;
+        existingGame.Genre = updatedGame.Genre;
+        exisitingGame.Price = updatedGame.Price;
+        exisitingGame.ReleaseDate = updatedGame.ReleaseDate;
+    }
+
 }
